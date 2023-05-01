@@ -1,4 +1,4 @@
-#This created from a coursefile to analyze machine learning results
+#This created from a coursefile to analyze machine learning results, course by Mr.Daniel Bourke on udemy
 
 import tensorflow as tf
 
